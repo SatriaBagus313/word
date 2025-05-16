@@ -1,6 +1,5 @@
 @echo off
 title Aktivasi Office - KMS
-color 0a
 
 echo ==============================================
 echo    Microsoft Office Activator - KMS Script
